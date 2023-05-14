@@ -1,0 +1,8 @@
+C:\Users\macar\source\repos\maze\maze\bin\Debug\maze.exe.config
+C:\Users\macar\source\repos\maze\maze\bin\Debug\maze.exe
+C:\Users\macar\source\repos\maze\maze\bin\Debug\maze.pdb
+C:\Users\macar\source\repos\maze\maze\obj\Debug\maze.csproj.AssemblyReference.cache
+C:\Users\macar\source\repos\maze\maze\obj\Debug\maze.csproj.SuggestedBindingRedirects.cache
+C:\Users\macar\source\repos\maze\maze\obj\Debug\maze.csproj.CoreCompileInputs.cache
+C:\Users\macar\source\repos\maze\maze\obj\Debug\maze.exe
+C:\Users\macar\source\repos\maze\maze\obj\Debug\maze.pdb
