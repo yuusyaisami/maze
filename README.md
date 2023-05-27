@@ -1,2 +1,9 @@
 # maze
-fefefererwefasfdgwsretgjedtyuksdergdgfjesrtyuj
+めーろのプログラムです、
+プログラムを書き換える場合はvisual studioで開いてから、書き換えてください。
+プログラムは自由にしてもらっても問題ありません
+## 実行ファイル
+bin/Debug/maze.exe
+毎回ファイアウォールに引っ掛かりますけど、ウイルスじゃないです
+## ライセンス
+なし
